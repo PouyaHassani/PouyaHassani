@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PouyaHassani
-- 👀 I’m interested in Python, MATLAB, OpenSEES Python
-- 🌱 I’m currently learning OpenSEES Python
+- 👀 I’m interested in Python, MATLAB, OpenSEESPy
+- 🌱 I’m currently learning OpenSEESPy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
